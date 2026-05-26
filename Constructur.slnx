@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="Constructur/Constructur.csproj" />
-  <Project Path="Emp/Emp.csproj" />
+  <Project Path="ConsoleApp1/Employee-con.csproj" Id="89b7f36b-1f54-4b6a-8764-43823509a5a7" />
+  <Project Path="Constructur/Constructur.csproj" Id="531708be-dfb3-42c7-8fc5-2883339680a1" />
+  <Project Path="Emp/Emp.csproj" Id="283462db-66ef-488a-9fe6-2ff1e9ccae13" />
 </Solution>
