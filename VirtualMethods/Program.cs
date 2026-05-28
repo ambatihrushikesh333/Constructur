@@ -33,6 +33,13 @@ namespace VirtualMethods
     {
         static void Main(string[] args)
         {
+            myclass obj= new myclass();
+            obj.display();
+            obj.show();
+
+            dc obj1 = new dc();
+            obj1.Message();
+            obj1.show(); 
         }
     }
 }
