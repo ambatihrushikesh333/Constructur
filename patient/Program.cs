@@ -31,6 +31,8 @@ namespace patient
             this.Pname = name;
             this.Page = age;
         }
+                                             
+        
         public void DisplayPatientInfo()
         {
             Console.WriteLine("Patient Name: " + Pname);
@@ -45,6 +47,10 @@ namespace patient
             Patient p= new Patient("John Doe", 25);
             p.MedicalHistory= "Cancer";
             p.DisplayPatientInfo();
+
+            Patient p2= new Patient("Jane Smith", 30);
+            p2.MedicalHistory= "Diabetes";
+            p2.DisplayPatientInfo();
         }
     }
 }
