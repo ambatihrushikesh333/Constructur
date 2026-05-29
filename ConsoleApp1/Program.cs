@@ -44,7 +44,6 @@ namespace ConsoleApp1
         {
             double hike = Salary * 10 / 100;
             Salary = Salary + hike;
-
             Console.WriteLine("Updated Salary is " + Salary);
         }
     }

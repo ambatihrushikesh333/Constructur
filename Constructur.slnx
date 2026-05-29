@@ -1,10 +1,12 @@
 <Solution>
   <Project Path="Abstract-class22/Abstract-class22.csproj" Id="1927be80-63ee-4aa8-beb4-9608727ad50a" />
+  <Project Path="ConstructAbstract/ConstructAbstract.csproj" Id="e16bca78-ffef-4ae6-a89d-421d5dd72b1a" />
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/Abstract-class/Abstract-class.csproj" Id="aae04bbe-7686-4f05-870e-1150404e55c1" />
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/Account/Account.csproj" Id="6dcf95c1-c88b-42a1-b247-b9275256f3d2" />
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/ConsoleApp1/Employee-con.csproj" Id="89b7f36b-1f54-4b6a-8764-43823509a5a7" />
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/Constructur/Constructur.csproj" Id="531708be-dfb3-42c7-8fc5-2883339680a1" />
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/Emp/Emp.csproj" Id="283462db-66ef-488a-9fe6-2ff1e9ccae13" />
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/patient/patient.csproj" Id="3154f6f5-05a3-4c17-af17-190f053bffc6" />
+  <Project Path="Student-info/Student-info.csproj" Id="260997d4-f6f0-4a2a-b990-74f1c322c41c" />
   <Project Path="VirtualMethods/VirtualMethods.csproj" Id="f659c48d-e1c7-4b3a-9201-db0debfe096d" />
 </Solution>
