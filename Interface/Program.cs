@@ -9,7 +9,10 @@ namespace Interface
     interface IShape
     {
         void Area();
-        double Perimeter();
+        double Perimeter()
+        {
+            return 0;
+        }
     }
 
     public class Circle:IShape
@@ -43,11 +46,11 @@ namespace Interface
     {
         static void Main(string[] args)
         {
-            IShape circle = new Circle { Radius = 5 };
+            IShape circle = new Circle { Radius = 12 };
             circle.Area();
             Console.WriteLine("Perimeter of Circle: " + circle.Perimeter());
 
-            IShape rectangle = new Rectangle { Length = 4, Width = 6 };
+            IShape rectangle = new Rectangle { Length = 12, Width = 10 };
             rectangle.Area();
             Console.WriteLine("Perimeter of Rectangle: " + rectangle.Perimeter());
         }
