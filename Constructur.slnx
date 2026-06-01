@@ -10,6 +10,7 @@
   <Project Path="E:/Users/ADMIN/source/repos/Constructur/patient/patient.csproj" Id="3154f6f5-05a3-4c17-af17-190f053bffc6" />
   <Project Path="expression-prodied-members/expression-prodied-members.csproj" Id="9830e6ca-8ceb-46ac-b749-78a943638ebb" />
   <Project Path="Interface/Interface.csproj" Id="d3d37ea2-cb9c-42a7-b04f-57df6270f577" />
+  <Project Path="MultipleinheritancewithInterface/MultipleinheritancewithInterface.csproj" Id="aa101446-04e1-4f28-8785-cc45d406d3c2" />
   <Project Path="Student-info/Student-info.csproj" Id="260997d4-f6f0-4a2a-b990-74f1c322c41c" />
   <Project Path="VirtualMethods/VirtualMethods.csproj" Id="f659c48d-e1c7-4b3a-9201-db0debfe096d" />
 </Solution>
